@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #JavaScript Development Environment
 
 1. Editor
@@ -8,3 +9,6 @@
 6. Linting
 7. Testing
 8. HTTP
+=======
+# JavaScript Development Environment 
+>>>>>>> 840adcdc7dde22eec6d490cbc7222ba256a4c564
